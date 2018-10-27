@@ -13,11 +13,11 @@ Given an image, we can count the number of pixels that correspond to a particula
 
 Calculation of Between-class variance:
 
-$\omega_0 = P(C_0) = \sum\^k_{i=1} p_i = \omega(k)$\\\\\\
-$\omega_1 = P(C_1) = \sum\^L_{i=K+1} p_i = 1-\omega(k)$\\\\\\
-$\mu_0 = \sum\^k_{i=1}iP(i|C_0) =  \frac{\sum\^k_{i=1}ip_i}{\omega_0}$\\\\\\
-$\mu_1 = \sum\^L_{i=k+1}iP(i|C_1) =  \frac{\sum\^L_{i=k+1}ip_i}{\omega_1}$\\\\\\
-$\sigma_B^2 = \omega_0\omega_1(\mu_0-\mu_1)\^2$\\\\\\
+$\omega_0 = P(C_0) = \sum\^k_{i=1} p_i = \omega(k)$\\
+$\omega_1 = P(C_1) = \sum\^L_{i=K+1} p_i = 1-\omega(k)$\\
+$\mu_0 = \sum\^k_{i=1}iP(i|C_0) =  \frac{\sum\^k_{i=1}ip_i}{\omega_0}$\\
+$\mu_1 = \sum\^L_{i=k+1}iP(i|C_1) =  \frac{\sum\^L_{i=k+1}ip_i}{\omega_1}$\\
+$\sigma_B^2 = \omega_0\omega_1(\mu_0-\mu_1)\^2$\\
 
 Since calculation of Between-class variance depends of k, we calculate for all possible values of k and find the maximum value of $\sigma_B^2$ and set the corresponding k as our optimal threshold. All pixels having pixel values less than k form class 0 and rest belong to class 1. Since this method works in 2D image, we can apply this algorithm along each channels and get a segmentation mask which is a matrix of 0 and 1 specifying each pixel of it's class. Thus, we take a logical 'AND' operator on three such segmentation outputs. Finally, we can apply this mask over original image to get our image segmentation output. Additionally, we can iterate this process by applying Otsu's algorithm over the segmented image again. This was not found useful in current set of images. 
 
