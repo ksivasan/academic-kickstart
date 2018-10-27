@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Kumaraguru Sivasankaran: I am a graduate student in AAE department at Purdue University. My current interests include Control theory, Deep Reinforcement learning, Computer vision and Applied Statistics. I like to play Rapid chess and a regular in Chess.com (my profile name is kugu2703). Outside school, I enjoy playing badminton and rock climbing. 
+Kumaraguru Sivasankaran: I am a graduate student in AAE department at Purdue University. My current interests include Control theory, Deep Reinforcement learning, Computer vision and Applied Statistics. I like to play Rapid chess  and a regular in Chess.com (my profile name is kugu2703). Outside school, I enjoy playing badminton and rock climbing.  
