@@ -5,9 +5,6 @@ date: "September 2, 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 While I was working on a problem using Power method (thanks to STAT545), I stopped to check why power method works and what is matrix deflation. I swear I had numerous courses on Linear Algebra before but did not know about this (weird education system). Before going further, let's stop and get familiarized with what is power method.
 
