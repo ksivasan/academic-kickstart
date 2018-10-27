@@ -1,3 +1,9 @@
+---
+title: "Image Segmentation"
+author: "Kumaraguru Sivasankaran"
+date: "September 2, 2018"
+output: html_document
+---
 
 ## I. Implementation of Otsu's algorithm
 
