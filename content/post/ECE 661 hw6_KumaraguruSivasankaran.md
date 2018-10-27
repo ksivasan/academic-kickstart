@@ -23,7 +23,7 @@ Since calculation of Between-class variance depends of k, we calculate for all p
 
 ## II. Texture-based feature extraction
 
-Instead of applying over RGB channels, we can create features based on textures as input to Otsu's algorithm. First, the RGB image is converted to grayscale image using any of the preferred methods. Here, we rastor scan a window of $N*N$ over each pixel and set it's value as equal to the variance of the pixel values in the pixels of this window (appropriate padding is necessary). By setting three different values for N, we get three channels similar to the previous step. Following above procedure from here on, we can get image segmentation based on texture-based feature extraction. 
+Instead of applying over RGB channels, we can create features based on textures as input to Otsu's algorithm. First, the RGB image is converted to grayscale image using any of the preferred methods. Here, we rastor scan a window of $N\*N$ over each pixel and set it's value as equal to the variance of the pixel values in the pixels of this window (appropriate padding is necessary). By setting three different values for N, we get three channels similar to the previous step. Following above procedure from here on, we can get image segmentation based on texture-based feature extraction. 
 
 ## III. Contour extraction algorithm
 
