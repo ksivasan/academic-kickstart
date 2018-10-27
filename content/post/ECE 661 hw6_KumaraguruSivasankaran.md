@@ -27,7 +27,7 @@ Instead of applying over RGB channels, we can create features based on textures 
 
 ## III. Contour extraction algorithm
 
-Once we have a segmentation mask, we can choose to make it better by applying a filtering step using dilation and/ erosion. We then apply our Contour extraction algorithm. In this work, a nearest neighbour based contour extraction algorithm is implemented for simplicity. The algorithm involves rastor scan of a window $N*N$ over each pixel and set the value of pixel as 1 if the value of pixel is 1 and also the sum of pixel values over the window is less than $N*N$. In all the examples here, I have used N=3 which means 8-neighbours are considered. 
+Once we have a segmentation mask, we can choose to make it better by applying a filtering step using dilation and/ erosion. We then apply our Contour extraction algorithm. In this work, a nearest neighbour based contour extraction algorithm is implemented for simplicity. The algorithm involves rastor scan of a window $N\*N$ over each pixel and set the value of pixel as 1 if the value of pixel is 1 and also the sum of pixel values over the window is less than $N\*N$. In all the examples here, I have used N=3 which means 8-neighbours are considered. 
 
 ## IV. Observations
 
