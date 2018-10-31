@@ -13,7 +13,7 @@ image_preview = "tpc.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Multi-agent System", "Vehicle-to-Vehicle", "Target-Point-Control]
+tags = ["Multi-agent-System", "Vehicle-to-Vehicle", "Target-Point-Control"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "<https://drive.google.com/open?id=1T3E6TBAo0TenRmbaozZrTIqnFs51FiEP>"
