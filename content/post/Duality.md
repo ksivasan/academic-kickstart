@@ -1,9 +1,32 @@
----
-title: "Duality of matrices"
-author: "Kumaraguru Sivasankaran"
-date: "September 2, 2018"
-output: html_document
----
++++
+# Date this page was created.
+date = "2017-04-11"
+
+# Project title.
+title = "Automated Measurement of Language Outcomes for Neurodevelopmental Disorders - NIDCD R01"
+
+# Project summary to display on homepage.
+summary = "Improving conversational use of spoken language is an important goal for many new interventions and treatments for children with neurodevelopmental disorders. However, progress in testing these treatments is limited by the lack of informative outcome measures to indicate whether or not an intervention or treatment is having the desired effect on a child's conversational use of language (i.e., discourse skills). The goal of this project is to evaluate whether Natural Language Processing methods can be translated into meaningful outcome measure for individuals with a range of neurodevelopmental disorders. This project was recently funded by the National Institute of Deafness and Other Communication Disorders."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["natural-language-processing", "autism", "outcomes"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
 
 
 While I was working on a problem using Power method (thanks to STAT545), I stopped to check why power method works and what is matrix deflation. I swear I had numerous courses on Linear Algebra before but did not know about this (weird education system). Before going further, let's stop and get familiarized with what is power method.
