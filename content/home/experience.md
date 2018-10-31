@@ -41,7 +41,8 @@ date_format = "January 2006"
   location = "Chennai, India"
   date_start = "2014-07-07"
   date_end = "2016-07-29"
-  description = """Handled Field Service Operation for the region of West Gujarat, India which included support to 13 models of     BharatBenz trucks 9-49 tonnes range and around 200 active customers
+  description = """Handled Field Service Operation for the region of West Gujarat, India which included support to 13 models of    
+  BharatBenz trucks 9-49 tonnes range and around 200 active customers
   Responsibilities include:
   
   * Dealer management
