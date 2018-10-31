@@ -26,58 +26,68 @@ weight = 7
   icon_pack = "fab"
   name = "R"
   description = "Proficient"
+  description = "3/5"
  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "Excellent"
+  description = "4/5"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "Excellent"  
+  description = "4/5"
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
   description = "Familiar"
+  description = "2/5"
 
 [[feature]]
-  icon = "tensorflow"
+  icon = "Tensorflow"
   icon_pack = "fab"
-  name = "tensorflow"
+  name = "Tensorflow"
   description = "Familiar"
+  description = "2/5"
 
 [[feature]]
-  icon = "keras"
+  icon = "Keras"
   icon_pack = "fab"
-  name = "keras"
+  name = "Keras"
   description = "Expert"
+  description = "4.5/5"
   
  [[feature]]
   icon = "PyTorch"
   icon_pack = "fab"
   name = "PyTorch"
   description = "Familiar"
+  description = "2/5"
   
   [[feature]]
   icon = "MATLAB Simulink"
   icon_pack = "fab"
   name = "MATLAB Simulink"
   description = "Excellent"
+  description = "4/5"
   
   [[feature]]
   icon = "Git"
   icon_pack = "fab"
   name = "Git"
   description = "Proficient"
+  description = "3/5"
   
   [[feature]]
   icon = "Latex"
   icon_pack = "fab"
   name = "Latex"
-  description = "Excellent"
+  description = "Expert"
+  description = "4/5"
 +++
