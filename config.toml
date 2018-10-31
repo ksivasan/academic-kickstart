@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "AAE - Purdue University", url = "https://engineering.purdue.edu/AAE" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "IMG_2635_edited.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile_pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "ksivasan@purdue.edu"
