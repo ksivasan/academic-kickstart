@@ -50,4 +50,34 @@ weight = 7
   icon_pack = "fab"
   name = "tensorflow"
   description = "Familiar"
+
+[[feature]]
+  icon = "keras"
+  icon_pack = "fab"
+  name = "keras"
+  description = "Expert"
+  
+ [[feature]]
+  icon = "PyTorch"
+  icon_pack = "fab"
+  name = "PyTorch"
+  description = "Familiar"
+  
+  [[feature]]
+  icon = "MATLAB Simulink"
+  icon_pack = "fab"
+  name = "MATLAB Simulink"
+  description = "Excellent"
+  
+  [[feature]]
+  icon = "Git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Proficient"
+  
+  [[feature]]
+  icon = "Latex"
+  icon_pack = "fab"
+  name = "Latex"
+  description = "Excellent"
 +++
