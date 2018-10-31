@@ -16,7 +16,7 @@ image_preview = "tpc.jpg"
 tags = ["Multi-agent-System", "Vehicle-to-Vehicle", "Target-Point-Control"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://example.org"
+external_link = "https://ksivasan.com/files/TargetPointControl_Project_Report.pdf"
 
 # Does the project detail page use math formatting?
 math = false
