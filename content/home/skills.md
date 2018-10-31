@@ -25,24 +25,29 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Beginner"
+  description = "Proficient"
  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "****"
+  description = "Excellent"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Excellent"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "***"
+  description = "Familiar"
 
+[[feature]]
+  icon = "tensorflow"
+  icon_pack = "fab"
+  name = "tensorflow"
+  description = "Familiar"
 +++
