@@ -1,30 +1,30 @@
 +++
 # Date this page was created.
-date = "2017-04-11"
+date = "2018-10-28"
 
 # Project title.
-title = "Automated Measurement of Language Outcomes for Neurodevelopmental Disorders - NIDCD R01"
+title = "Duality of Matrices"
 
 # Project summary to display on homepage.
-summary = "Improving conversational use of spoken language is an important goal for many new interventions and treatments for children with neurodevelopmental disorders. However, progress in testing these treatments is limited by the lack of informative outcome measures to indicate whether or not an intervention or treatment is having the desired effect on a child's conversational use of language (i.e., discourse skills). The goal of this project is to evaluate whether Natural Language Processing methods can be translated into meaningful outcome measure for individuals with a range of neurodevelopmental disorders. This project was recently funded by the National Institute of Deafness and Other Communication Disorders."
+summary = "I stumbled upon this thought for a while and came up with this explanation on duality of matrices. I am not sure if any Linear Algebra 101 talks about this. I may be wrong since I feel I have evolved different times with seeing linear algebra in different occasions which is one of my favorite subjects"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "matrix.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["natural-language-processing", "autism", "outcomes"]
+tags = ["linear algebra", "Decomposition"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "matrix.jpg"
+caption = "a random pic, not creative enough!"
 
 +++
 
