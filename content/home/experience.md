@@ -4,7 +4,7 @@ widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Experience"
-subtitle = ""
+subtitle = "Automotive Industry"
 
 # Order that this section will appear in.
 weight = 8
@@ -25,12 +25,13 @@ date_format = "January 2006"
   location = "Hagerstown, Maryland, USA"
   date_start = "2017-08-14"
   date_end = "2017-12-15"
-  description = """
+  description = """Verification and Validation Intern"""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Demo testing of diagnostic system through fault introduction and detection under field trials
+  * Collaborated with different functional owners for setting up new tests and for resolving conflicts 
+  * Contributed to improving the fidelity of MATLAB Simulink model of full Diesel engine system which was created as Virtual Test Cell
+  * Ran simulations on VTC using driving conditions and compared the outputs with actual for debugging and showing improvements
   """
 
 [[experience]]
@@ -40,6 +41,16 @@ date_format = "January 2006"
   location = "Chennai, India"
   date_start = "2014-07-07"
   date_end = "2016-07-29"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  description = """Handled Field Service Operation for the region of West Gujarat, India which included support to 13 models of BharatBenz trucks 9-49 tonnes range and around 200 active customers"""
+  Responsibilities include:
+  
+  * Dealer management
+  * Customer management
+  * Product Support
+  * Technical Support (Diagnostics)
+  * Warranty claims management
+  * Service marketing
+  * Reach and Recovery 
+  * Field trials
+  * New Product monitoring
 +++
