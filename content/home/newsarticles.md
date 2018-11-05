@@ -21,12 +21,12 @@ weight = 60
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+# view = 1
 
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+# filter_default = 0
 +++
 
-1. Learn how to find gradient of determinant from this [note]("https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf") by Harald Hanche-Olsen
+1. Learn how to find gradient of determinant from this [note](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf/) by Harald Hanche-Olsen
