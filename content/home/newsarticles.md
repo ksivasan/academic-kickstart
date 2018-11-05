@@ -31,4 +31,5 @@ weight = 60
 
 Watch this space for interesting articles I came across or referred recently. This is going to be massive list of logs soon.
 
-1. Learn how to find gradient of determinant from this [note](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf) by Harald Hanche-Olsen
+- Learn how to find gradient of determinant from this [note](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf) by Harald Hanche-Olsen
+- Finding the probability density of linear transformation of Random variables. What if it is a matrix of transformation for a vector of random variables? Check out [this](https://sccn.ucsd.edu/wiki/Random_Variables_and_Probability_Density_Functions)
