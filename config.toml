@@ -298,7 +298,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Resources"
-  url = "#publications_selected"
+  url = "#newsarticles"
   weight = 4
 
 [[menu.main]]
