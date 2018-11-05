@@ -16,7 +16,7 @@ weight = 60
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "newsarticles"
+# folder = "newsarticles"
 
 # View.
 # Customize how projects are displayed.
@@ -29,3 +29,4 @@ view = 1
 filter_default = 0
 +++
 
+1. Learn how to find gradient of determinant from this note ("https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf")
