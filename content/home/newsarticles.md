@@ -29,4 +29,4 @@ view = 1
 filter_default = 0
 +++
 
-1. Learn how to find gradient of determinant from this note ("https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf")
+1. Learn how to find gradient of determinant from this [note]("https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf") by Harald Hanche-Olsen
