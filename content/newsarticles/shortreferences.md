@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-10-28"
+date = "2018-11-04"
 
 # Project title.
 title = "Gradient of determinant"
@@ -19,13 +19,12 @@ tags = ["linear algebra", "Differentiation"]
 external_link = "https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf"
 
 # Does the project detail page use math formatting?
-math = true
+math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 # image = "matrix.jpg"
 # caption = "a random pic, not creative enough!"
-
 +++
 
 Lets see if this shows up !
