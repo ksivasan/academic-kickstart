@@ -31,4 +31,4 @@ weight = 60
 
 Watch this space for interesting articles I came across or read recently. I am planning to keep it as reference for future.
 
-1. Learn how to find gradient of determinant from this [note](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf/) by Harald Hanche-Olsen
+1. Learn how to find gradient of determinant from this [note](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf) by Harald Hanche-Olsen
