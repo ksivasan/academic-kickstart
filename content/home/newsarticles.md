@@ -17,5 +17,9 @@ weight = 60
 # For example, `folder = "project"` displays content from `content/project/`.
 folder = "newsarticles"
 
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards.
+view = 1
 +++
 
