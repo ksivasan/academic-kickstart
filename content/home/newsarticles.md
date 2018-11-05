@@ -12,6 +12,7 @@ subtitle = "External links and Resources"
 
 # Order that this section will appear in.
 weight = 60
+
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
@@ -21,5 +22,10 @@ folder = "newsarticles"
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
 view = 1
+
+# Filter toolbar.
+
+# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
+filter_default = 0
 +++
 
