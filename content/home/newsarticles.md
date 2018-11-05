@@ -29,6 +29,6 @@ weight = 60
 # filter_default = 0
 +++
 
-Watch this space for interesting articles I came across or read recently. I am planning to keep it as reference for future.
+Watch this space for interesting articles I came across or referred recently. This is going to be massive list of logs soon.
 
 1. Learn how to find gradient of determinant from this [note](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf) by Harald Hanche-Olsen
