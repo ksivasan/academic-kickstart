@@ -12,6 +12,10 @@ subtitle = "External links and Resources"
 
 # Order that this section will appear in.
 weight = 60
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "newsarticles"
 
 +++
 
