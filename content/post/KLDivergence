@@ -27,5 +27,6 @@ math = true
 # caption = "a random pic, not creative enough!"
 
 +++
+Learn about KL Divergence
 
-![KL Divergence](https://github.com/ksivasan/academic-kickstart/tree/master/static/img/KL_Divergence.png)
+![KLDivergence](https://github.com/ksivasan/academic-kickstart/tree/master/static/img/KL_Divergence.png)
