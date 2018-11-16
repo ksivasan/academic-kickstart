@@ -29,4 +29,4 @@ math = true
 +++
 Learn about KL Divergence
 
-![KL Divergence](https://github.com/ksivasan/academic-kickstart/tree/master/static/img/KL_Divergence.png)
+![KL Divergence](https://github.com/ksivasan/academic-kickstart/tree/master/static/img/KL_Divergence.png "KL")
