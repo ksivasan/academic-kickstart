@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-10-30"
+date = "2018-11-28"
 
 # Project title.
 title = "Evolutionary algorithms for discrete optimization problems"
