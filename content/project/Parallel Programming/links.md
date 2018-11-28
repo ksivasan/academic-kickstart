@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2018-10-30"
+date = "2018-11-28"
 
 # Project title.
-title = "Do we really need traffic sign regulators if all our cars start to communicate with each other?"
+title = "Use of hardware accelerators for n-body simulation"
 
 # Project summary to display on homepage.
-summary = "The idea is to develop a decentralized traffic regulator which works on Target point control approach with constraints on safety. A hybrid controller is developed which switches modes depending on the states of neighboring agents. Find out more here .."
+summary = "An exploratory study on using different parallel architectures to understand the capabilities and performance for a benchmark problem in Physics/Astronomy"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tpc.jpg"
+# image_preview = "tpc.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Multi-agent-System", "Vehicle-to-Vehicle", "Target-Point-Control"]
+tags = ["Parallel-Computing", "nbody-problem"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://ksivasan.com/files/Parallel_Architectures_Project_Report.pdf"
